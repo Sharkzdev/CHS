@@ -1,0 +1,5 @@
+ligh blue:#9DFDFB
+slightly darker blue: #8DE3C9
+turquoise: #A7FAC9
+green:#8DE398
+light green:#AEFD9D
